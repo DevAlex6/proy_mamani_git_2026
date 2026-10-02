@@ -1,0 +1,11 @@
+commit 7298cac1a82d27bf89f101e8a1cd6ce1320f1188
+Author: Alex <20alexmamani01@gmail.com>
+Date:   Wed Sep 30 22:00:38 2026 -0400
+
+    Agregamos app y estilos
+
+commit 9b9d06bee6db4d84d0ace9d9471c154a219ca445
+Author: Alex <20alexmamani01@gmail.com>
+Date:   Wed Sep 30 21:58:10 2026 -0400
+
+    Agregamos a index.html
